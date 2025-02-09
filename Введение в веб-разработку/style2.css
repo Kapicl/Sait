@@ -1,0 +1,25 @@
+div {width: 100px;
+height: 100px;
+background-color: black;
+border-radius: 50%;
+position: fixed;
+top: 500px;
+left: 500px}
+
+div:hover {background-color: red;
+width: 150px;
+height: 150px;
+transition: 1s;}
+
+h1::first-letter {color: black;
+font-size: 30px;
+border-radius: 10px;
+background-color: red;}
+
+h1::before {content: "®"}
+h1::after {content: "�"}
+
+a:link {color: black}
+a:visited {color: black}
+a:hover {color: red}
+a:active {color: white}

@@ -1,0 +1,6 @@
+body {background-color: #6495ed}
+p {color: white; font-size: 20px}
+#test {background-color: green; color: red}
+.test {background-color: yellow; color: blue; font-size: 30px; font-family: Bradley Hand, cursive; font-weight: 900; width: 50%; height: 100px; padding: 20px;
+border: 5px solid black; border-width: 5px 10px 15px 20px; border-style: dotted solid dashed double; border-color: red green blue yellow; border-radius: 10px;
+margin: 10px}
